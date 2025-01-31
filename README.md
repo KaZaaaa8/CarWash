@@ -1,4 +1,4 @@
-# ZCarWash - Sistem Manajemen Pencucian Kendaraan
+# CarWash - Sistem Manajemen Pencucian Kendaraan
 
 ZCarWash adalah sistem manajemen komprehensif yang dirancang khusus untuk bisnis pencucian kendaraan, dilengkapi dengan pemantauan real-time, pelaporan detail, dan penanganan transaksi yang efisien.
 
